@@ -21,8 +21,6 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
-// Configure the HTTP request pipeline.
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
