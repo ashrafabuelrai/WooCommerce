@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WooCommerce.Application/WooCommerce.Application.csproj" />
+  <Project Path="WooCommerce.Domain/WooCommerce.Domain.csproj" />
+  <Project Path="WooCommerce.Infrastructure/WooCommerce.Infrastructure.csproj" />
+  <Project Path="WooCommerce/WooCommerce.API.csproj" />
+</Solution>
