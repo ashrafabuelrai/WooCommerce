@@ -7,12 +7,12 @@ namespace WooCommerce.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class OrderController : ControllerBase
+    public class OrdersController : ControllerBase
     {
 
         private readonly IZohoOrderService _orderService;
 
-        public OrderController(
+        public OrdersController(
             IZohoOrderService orderService)
         {
             _orderService = orderService;
